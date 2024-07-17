@@ -1,10 +1,4 @@
 /* Program to generate text based on the context provided by input prompts.
-
-  Skeleton program written by Artem Polyvyanyy, http://polyvyanyy.com/,
-  September 2023, with the intention that it be modified by me
-  to add functionality, as required by the assignment specification.
-  All included code is (c) Copyright University of Melbourne, 2023.
-
 */
 
 #include <stdio.h>
